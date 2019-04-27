@@ -2,6 +2,14 @@
 
 Simple dashboard for user and article management.
 
+## Pre-Requirements
+
+* JSON-Server (https://github.com/typicode/json-server) for Test-API
+
+```
+npm install -g json-server
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
