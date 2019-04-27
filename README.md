@@ -1,6 +1,6 @@
-# Spartakiade2019
+# Spartakiade 2019: Angular Workshop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Simple dashboard for user and article management.
 
 ## Development server
 
